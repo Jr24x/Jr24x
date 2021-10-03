@@ -9,7 +9,7 @@ Learning: Java, C++, HTML, and working on x64_DBG
 ██████████████████████████████████████████████████████████████████
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://i.gifer.com/Ebvp.gif">
 </p>
 
 
