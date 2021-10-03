@@ -1,10 +1,10 @@
-██████████████████████████████████████████████████████████████████
-Name: JR
-Gender: Male
-Birth: 1/1
-Relationship: Married
-Professions: Python Programmer, Virus Expert, Batch File Scripter,
-Learning: Java, C++, HTML, and working on x64_DBG
+██████████████████████████████████████████████████████████████████   
+Name: JR   
+Gender: Male   
+Birth: 1/1   
+Relationship: Married   
+Professions: Python Programmer, Virus Expert, Batch File Scripter     
+Learning: Java, C++, HTML, and working on x64_DBG   
 ██████████████████████████████████████████████████████████████████
 
 
