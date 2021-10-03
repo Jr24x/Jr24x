@@ -12,7 +12,7 @@ Learning: Java, C++, HTML, and working on x64_DBG
       
          
 <p align="center">  
-<img src="https://media.wired.com/photos/5941ec70303b001e66c2e249/191:100/w_1280,c_limit/1O4Hzri-UAW0vWWODjrdfmQ.gif">
+<img src="https://miro.medium.com/max/1198/1*Wbif8jHo31boDYlbpDcT_Q@2x.jpeg">
 </p>
 
 
