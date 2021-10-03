@@ -1,3 +1,4 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    
 ██████████████████████████████████████████████████████████████████   
 Name: JR   
 Gender: Male   
@@ -6,8 +7,10 @@ Relationship: Married
 Professions: Python Programmer, Virus Expert, Batch File Scripter     
 Learning: Java, C++, HTML, and working on x64_DBG   
 ██████████████████████████████████████████████████████████████████
-
-
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
 
 
 
