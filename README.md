@@ -12,7 +12,7 @@ Learning: Java, C++, HTML, and working on x64_DBG
       
          
 <p align="center">  
-<img src="https://miro.medium.com/max/1198/1*Wbif8jHo31boDYlbpDcT_Q@2x.jpeg">
+<img src="https://cdn.discordapp.com/attachments/909556520767852566/924364595307622420/Untitled173_20210712025351.jpg">
 </p>
 
 
