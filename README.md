@@ -1,7 +1,4 @@
-Name- Jake Walter  
-Birth- 1/1  
-Working on- Python  
-Relationship- Enagaged  
+
 
 
 
